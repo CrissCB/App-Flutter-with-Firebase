@@ -26,7 +26,7 @@ class AuthService {
   /// En web (localhost) no se usa.
   // static const String? _serverClientId = null;
   static const String? _serverClientId =
-      'TU_WEB_CLIENT_ID.apps.googleusercontent.com';
+      '149617547684-jblqhp5m7lnkfaphjq0ag9dvqafgdpv2.apps.googleusercontent.com';
 
   Future<void>? _googleInit;
 
